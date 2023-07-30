@@ -21,3 +21,12 @@ I am [Lew1s777](https://github.com/Lew1s777),a student majoring in civil enginee
 #### Notes ####
 - 📁 [study](https://github.com/Lew1s777/Study) materials & notes.
 - 📁 [cheatsheet](https://github.com/Lew1s777/ct) (mainly about linux).
+
+status
+---
+
+![Lew1s777](https://count.getloli.com/get/@Lew1s777)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lew1s777&layout=compact&theme=buefy)
+
+![Lew1s777's github stats](https://github-readme-stats.vercel.app/api?username=Lew1s777&count_private=true&show_icons=true&count_private=true&theme=buefy)
