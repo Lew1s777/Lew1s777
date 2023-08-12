@@ -2,10 +2,12 @@
 
 I am [Lew1s777](https://github.com/Lew1s777),a student majoring in civil engineering at HHU.
 
+<!-- 
 ```
 天行健，君子以自強不息，
 地勢坤，君子以厚德載物。
 ```
+-->
 
 ---
 
@@ -22,6 +24,8 @@ I am [Lew1s777](https://github.com/Lew1s777),a student majoring in civil enginee
 - 📁 [study](https://github.com/Lew1s777/Study) materials & notes.
 - 📁 [cheatsheet](https://github.com/Lew1s777/ct) (mainly about linux).
 
+<!-- 
+
 status
 ---
 
@@ -30,3 +34,5 @@ status
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lew1s777&layout=compact&theme=buefy)
 
 ![Lew1s777's github stats](https://github-readme-stats.vercel.app/api?username=Lew1s777&count_private=true&show_icons=true&count_private=true&theme=buefy)
+
+-->
